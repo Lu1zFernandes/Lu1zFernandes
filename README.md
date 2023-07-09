@@ -19,4 +19,4 @@
   <a href="www.linkedin.com/in/luiz-fernandes-matos-neves-a74a9a203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zFernandes)](https://github.com/Lu1zFernandes/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zFernandes)](https://github.com/Lu1zFernandes/github-readme-stats)
