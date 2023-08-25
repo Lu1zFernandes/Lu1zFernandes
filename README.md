@@ -12,6 +12,7 @@
   <img align="center" alt="Luiz-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Luiz-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+   <img align="center" alt="Luiz-React" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)">
 </div>
 
 <div style="display: inline_block"><br>
